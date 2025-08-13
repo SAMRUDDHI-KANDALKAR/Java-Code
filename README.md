@@ -1,2 +1,2 @@
-# Java-Code
-I start doing Java programming  from basic to advance  
+# Conditions in Java
+I did some code on condition statements in Java .  
